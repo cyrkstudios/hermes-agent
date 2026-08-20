@@ -292,6 +292,7 @@ _PROVIDER_MODELS: dict[str, list[str]] = {
         # MiniMax
         "minimax/minimax-m3",
         # Z-AI
+        "z-ai/glm-5.3",
         "z-ai/glm-5.2",
         "z-ai/glm-5.1",
         # Xiaomi
